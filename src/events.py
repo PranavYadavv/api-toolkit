@@ -1,6 +1,6 @@
 """
 Event handling and dispatch for api-toolkit.
-Updated: 2026-07-12
+Updated: 2026-07-18
 """
 
 import logging
